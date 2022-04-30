@@ -1,0 +1,145 @@
+.td-image-product{
+    width: 400px;
+    width: 600px;
+}
+
+.div-productos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.subdiv-productos {
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.div-image-product {
+    width: 200px;
+}
+
+.div-producto-total {
+    padding: 5px 20px;
+}
+.div-producto-total>div, p, h3 {
+    margin: 5px 0;
+    padding: 0;
+
+}
+.marca {
+    color: blue;
+}
+.btn-action {
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #f5950a;
+}
+
+.edit {
+    background-color: #222e3c;
+}
+.card-columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 3% 0px;
+    margin-bottom: 5%;
+
+  }
+  
+  .link-card {
+    text-decoration: none;
+    color: #000;
+
+  }
+
+  .precio{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+  }
+  .precio>h3{
+      margin: 0 5px;
+      color: red;
+  }
+  .envio-gratis {
+      font-weight: 700;
+  }
+  
+  .container-product {
+
+    margin-bottom: 100px;
+
+  }
+  
+  .imgCard {
+    width: 300px;
+    height: 200px;
+    margin: auto;
+  }
+  
+  .car-cont {
+    padding: 5%;
+  }
+  
+  .nombre {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .preciotext {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .container-price {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .entrega {
+    color: rgb(153, 152, 152);
+    font-size: 18px;
+  }
+
+  .historial {
+      margin: 3%;
+  }
+  
+  .div-historial{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-evenly;
+  }
+  .div-video-game {
+      width: 20%;
+  }
+
+  .img-video-game {
+      width: 80%;
+  }
+
+  .precio-video-game {
+      color: red;
+  }
+
+  .div-testimonio {
+      width: 60%;
+      margin-bottom: 30px;
+  }
+
+  .img-testimonio {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      margin: 40px 0;
+  }
+  .img-testimonio>img{
+      margin-right: 20px;
+  }

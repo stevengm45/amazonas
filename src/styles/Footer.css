@@ -1,0 +1,30 @@
+.footer-main {
+  background-color: #222d3f;
+}
+.ul-main-footer{
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding: 20px;
+}
+
+.ul-2-footer{
+  list-style-type: none;
+}
+
+.li-1 {
+  font-weight: 700;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.logo-footer{
+  text-align: center;
+  padding: 50px;
+  margin: 20px;
+}
+.logo-amazonas-footer{
+  width: 150px;
+
+}
